@@ -1,4 +1,4 @@
-PG-RPC
-======
+pgRPC
+=====
 
 Publish Postgres database via RPC.
